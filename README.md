@@ -36,8 +36,8 @@
 </p>
 
 <div align="center">
-    <img height="70%"
-        src="https://raw.githubusercontent.com/Suleiman-Moraes/suleiman-moraes.github.io/master/images/Develop-JAVA-Enterprise-Applications.png">
+    <img height="100%"
+        src="https://media-exp1.licdn.com/dms/image/C4E16AQESwYUw5pwOPg/profile-displaybackgroundimage-shrink_350_1400/0/1629133060308?e=1634774400&v=beta&t=nUXb2bYwxU-5j64_Qg9MrMQeaqrM5ABCPJwRwNGMU20">
 </div>
 
 ##
