@@ -58,14 +58,14 @@
 ---
 
 <h2> :blue_book: Sobre</h2>
-<p><br>Meu nome é Suleiman Alves de Moraes, atualmente tenho 24 anos e sou formado em Análise e Desenvolvimento de
+<p><br>Meu nome é Suleiman Alves de Moraes, atualmente tenho 24 anos, sou
+    casado, tenho dois filhos e sou formado em Análise e Desenvolvimento de
     Sistemas na faculdade SENAI Fatesg, sou uma pessoa alegre, procuro sempre fazer amizades onde estou, tenho uma
-    preguiça de discursões e picuinhas, acho isso uma perda de tempo especialmente se for no ambiente de trabalho, sou
-    casado, e tenho dois filhos.</p>
+    preguiça de discursões e picuinhas, acho isso uma perda de tempo especialmente se for no ambiente de trabalho.</p>
 <p>Dentro do ambiente de trabalho, como dito, gosto de fazer amizades, e procuro me esforçar naquilo que faço, não tenho
     problemas em estudar uma tecnologia em casa se for necessário e sempre que posso gosto de propor novas soluções a
     empresa, seja em tecnologias, seja em código mesmo, inserindo um novo padrão de projeto, ou adaptando melhor um já
-    existente, desenvolver sistemas é minha profissão e também algo que particularmente eu gosto de fazer.</p>
+    existente, desenvolver é minha profissão e também algo que particularmente eu gosto de fazer.</p>
 
 ---
 
