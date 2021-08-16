@@ -68,3 +68,5 @@
     existente, desenvolver sistemas é minha profissão e também algo que particularmente eu gosto de fazer.</p>
 
 ---
+
+![Snake animation](https://github.com/Suleiman-Moraes/Suleiman-Moraes/blob/output/github-contribution-grid-snake.svg)
