@@ -54,8 +54,7 @@
     <a href="https://api.whatsapp.com/send?phone=5562998264577" target="_blank"></a> <img
         src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
-    ![Snake
-    animation](https://github.com/Suleiman-Moraes/Suleiman-Moraes/blob/output/github-contribution-grid-snake.svg)
+    ![Snake animation](https://github.com/Suleiman-Moraes/Suleiman-Moraes/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 ---
