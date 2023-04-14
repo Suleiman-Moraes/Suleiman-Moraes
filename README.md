@@ -71,3 +71,6 @@
 ---
 
 ![Snake animation](https://github.com/Suleiman-Moraes/Suleiman-Moraes/blob/output/github-contribution-grid-snake.svg)
+
+
+[![Linkedin](https://media.licdn.com/dms/image/C4D16AQHC7cR9vVD6Ow/profile-displaybackgroundimage-shrink_350_1400/0/1662490166630?e=1686787200&v=beta&t=1KkYwyylM7tx9nd4GE0sT4W-I1o3rU2EHJLi9c2vDTg)](https://www.linkedin.com/in/suleiman-alves-de-moraes-14b449145/)
