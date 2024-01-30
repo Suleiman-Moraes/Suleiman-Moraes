@@ -45,7 +45,7 @@
     <!-- <a href="https://www.instagram.com/suleiman_moraes/" target="_blank"><img
             src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
             target="_blank"></a> -->
-    <a href="mailto:suleimanmoraes@gmail.com" target="_blank"><img
+    <a href="mailto:suleimandevtech@gmail.com" target="_blank"><img
             src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
     <a href="https://www.linkedin.com/in/suleiman-moraes/" target="_blank" target="_blank"><img
@@ -59,18 +59,21 @@
 ---
 
 <h2> :blue_book: Sobre</h2>
-<p><br>Meu nome é Suleiman Alves de Moraes, atualmente tenho 24 anos, sou
-    casado, tenho dois filhos e sou formado em Análise e Desenvolvimento de
-    Sistemas na faculdade SENAI Fatesg, sou uma pessoa alegre, procuro sempre fazer amizades onde estou, tenho uma
-    preguiça de discursões e picuinhas, acho isso uma perda de tempo especialmente se for no ambiente de trabalho.</p>
-<p>Dentro do ambiente de trabalho, como dito, gosto de fazer amizades, e procuro me esforçar naquilo que faço, não tenho
-    problemas em estudar uma tecnologia em casa se for necessário e sempre que posso gosto de propor novas soluções a
-    empresa, seja em tecnologias, seja em código mesmo, inserindo um novo padrão de projeto, ou adaptando melhor um já
-    existente, desenvolver é minha profissão e também algo que particularmente eu gosto de fazer.</p>
+<p><br>Suleiman Alves de Moraes is a professional graduated in Analysis and Systems Development from the renowned institution SENAI Fatesg. His professional journey is marked by an unwavering commitment to excellence and a genuine enthusiasm for solving complex problems.</p>
+
+<p>With a warm and welcoming approach, Suleiman demonstrates exceptional skills in building interpersonal relationships. His willingness to cultivate meaningful connections within and outside the workplace reflects his commitment to a collaborative and positive environment. His resolute stance towards conflicts, coupled with his aversion to fruitless arguments, evidences remarkable professional maturity.</p>
+
+<p>In the work context, Suleiman stands out for his tireless dedication and willingness to tackle challenges head-on. His proactivity is evident in his readiness to explore new technologies and deepen his knowledge, often investing his personal time in additional studies to better serve the company's goals.</p>
+
+<p>A true enthusiast of development, Suleiman not only embraces assigned tasks but also constantly seeks ways to raise the standard of quality and efficiency. Whether proposing innovative solutions, introducing new design standards, or refining existing ones, his passion for the art of software development transcends the boundaries of the profession, revealing itself as an intrinsic part of his identity.</p>
+
+<p>At the core of his professional journey, Suleiman finds satisfaction in the ability to turn abstract concepts into tangible reality. His commitment to technical excellence and results-oriented mindset distinguish him as a valuable asset in any development team.</p>
+
+<p>In summary, Suleiman Alves de Moraes epitomizes the modern professional who not only embraces the challenges of technology but also confronts them with unwavering determination and a positive attitude. His relentless pursuit of innovation and his ability to inspire and collaborate with others highlight him as a driving force at the forefront of system development.</p>
 
 ---
 
 ![Snake animation](https://github.com/Suleiman-Moraes/Suleiman-Moraes/blob/output/github-contribution-grid-snake.svg)
 
 
-[![Linkedin](https://media.licdn.com/dms/image/C4D16AQHC7cR9vVD6Ow/profile-displaybackgroundimage-shrink_350_1400/0/1662490166630?e=1686787200&v=beta&t=1KkYwyylM7tx9nd4GE0sT4W-I1o3rU2EHJLi9c2vDTg)](https://www.linkedin.com/in/suleiman-alves-de-moraes-14b449145/)
+[![Linkedin](files/banner-susu.jfif)](https://www.linkedin.com/in/suleiman-moraes/)
