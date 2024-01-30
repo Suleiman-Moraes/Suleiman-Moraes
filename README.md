@@ -34,6 +34,11 @@
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
 </div>
 </p>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/suleiman-moraes/count.svg" />
+</p>
+
         
 ##
 <div style="display: inline_block" align="center"><br>
