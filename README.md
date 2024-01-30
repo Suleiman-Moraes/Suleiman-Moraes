@@ -1,5 +1,5 @@
-<h5 align="center">Olá, Seja bem vindo!</h5>
-<h1 align="center">Meu nome é Suleiman Moraes 👨🏿‍💻 </h1>
+<h5 align="center">Hello, Welcome!</h5>
+<h1 align="center">My name is Suleiman Moraes 👨🏿‍💻 </h1>
 
 <div align="center">
     <a href="https://github.com/Suleiman-Moraes">
@@ -34,12 +34,7 @@
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
 </div>
 </p>
-
-<div align="center">
-    <img height="100%"
-        src="https://media-exp1.licdn.com/dms/image/C4E16AQESwYUw5pwOPg/profile-displaybackgroundimage-shrink_350_1400/0/1629133060308?e=1634774400&v=beta&t=nUXb2bYwxU-5j64_Qg9MrMQeaqrM5ABCPJwRwNGMU20">
-</div>
-
+        
 ##
 <div style="display: inline_block" align="center"><br>
     <!-- <a href="https://www.instagram.com/suleiman_moraes/" target="_blank"><img
@@ -58,7 +53,7 @@
 
 ---
 
-<h2> :blue_book: Sobre</h2>
+<h2> :blue_book: About</h2>
 <p><br>Suleiman Alves de Moraes is a professional graduated in Analysis and Systems Development from the renowned institution SENAI Fatesg. His professional journey is marked by an unwavering commitment to excellence and a genuine enthusiasm for solving complex problems.</p>
 
 <p>With a warm and welcoming approach, Suleiman demonstrates exceptional skills in building interpersonal relationships. His willingness to cultivate meaningful connections within and outside the workplace reflects his commitment to a collaborative and positive environment. His resolute stance towards conflicts, coupled with his aversion to fruitless arguments, evidences remarkable professional maturity.</p>
